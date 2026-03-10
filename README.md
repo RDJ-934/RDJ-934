@@ -10,7 +10,8 @@
 # 👨‍💻 About Me
 
 🎓 Completed BE Computer Engineering at **Government Engineering College, Gandhinagar**  
-    CGPA **8.56**
+- CGPA **8.56**
+
 🎓 Pursuing M.Tech. Cyber Security at **National Forensic Sciences University, Gandhinagar**
 
 💡 Interested in:
